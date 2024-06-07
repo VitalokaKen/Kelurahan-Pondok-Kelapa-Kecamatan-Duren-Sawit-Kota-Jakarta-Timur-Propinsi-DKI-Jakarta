@@ -165,7 +165,7 @@
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a https://www.google.com/maps/place/6%C2%B012'37.2%22S+106%C2%B051'38.9%22E/@-6.210326,106.860803,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.210326!4d106.860803?entry=ttu">
+              <td><a https:"//www.google.com/maps/place/6%C2%B012'37.2%22S+106%C2%B051'38.9%22E/@-6.210326,106.860803,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.210326!4d106.860803?entry=ttu">
 -6.210326, 106.860803				
                   </a></td>
             </tr>
@@ -226,7 +226,7 @@
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a https://www.google.com/maps/place/6%C2%B012'06.6%22S+106%C2%B051'34.6%22E/@-6.201822,106.859621,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.201822!4d106.859621?entry=ttu">
+              <td><a https:"//www.google.com/maps/place/6%C2%B012'06.6%22S+106%C2%B051'34.6%22E/@-6.201822,106.859621,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.201822!4d106.859621?entry=ttu">
 -6.201822, 106.859621		
                   </a></td>
             </tr>
@@ -286,7 +286,7 @@
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a https://www.google.com/maps/place/6%C2%B012'11.6%22S+106%C2%B051'11.0%22E/@-6.20322,106.853055,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.20322!4d106.853055?entry=ttu">
+              <td><a https:"//www.google.com/maps/place/6%C2%B012'11.6%22S+106%C2%B051'11.0%22E/@-6.20322,106.853055,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.20322!4d106.853055?entry=ttu">
 -6.203220, 106.853055
                   </a></td>
             </tr>
