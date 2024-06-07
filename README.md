@@ -56,16 +56,16 @@
           </ol>
           <div class="carousel-inner">
                         <div class="carousel-item active" data-bs-interval="2000">
-				<img class="d-block w-100" src="sumartoyo.png" alt="First slide" />
+				<img class="d-block w-100" src="sumartoyo1.png" alt="First slide" />
             </div>
                       </div>
-          <a class="carousel-control-prev" href="sumartoyo.png" role="button" data-slide="prev">
+          <a class="carousel-control-prev" href="sumartoyo2.png" role="button" data-slide="prev">
             <span class="carousel-control-custom-icon" aria-hidden="true">
               <i class="fas fa-chevron-left"></i>
             </span>
             <span class="sr-only">Previous</span>
           </a>
-          <a class="carousel-control-next" href="sumartoyo.png" role="button" data-slide="next">
+          <a class="carousel-control-next" href="sumartoyo3.png" role="button" data-slide="next">
             <span class="carousel-control-custom-icon" aria-hidden="true">
               <i class="fas fa-chevron-right"></i>
             </span>
