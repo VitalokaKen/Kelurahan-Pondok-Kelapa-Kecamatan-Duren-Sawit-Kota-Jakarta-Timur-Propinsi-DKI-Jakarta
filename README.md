@@ -90,8 +90,7 @@
 			 <tr>
               <td> Lokasi  </td>
               <td>:</td>
-              <td>Perumahan Raffles Hills Blok O 8 No 12 Rt 006 Rw 25, Kelurahan Sukatani, Kecamatan Cimanggis, Kota Depok, Provinsi Jawa Barat.																											
-			</td>
+              <td>Matraman Townhouse Kav.1 RT.006 RW.09 Jl. Matraman Belakang, Kelurahan Palmeriam, Kecamatan Matraman  , Kota Jakarta Timur, Provinsi DKI Jakarta.</td>
             </tr>
 			 <tr>
               <td>Basis Nilai</td>
@@ -101,12 +100,12 @@
 			<tr>
               <td>Tanggal Inspeksi</td>
               <td>: </td>
-              <td>18 Januari 2022</td>
+              <td>23 Januari 2022</td>
             </tr>
 			<tr>
               <td>Tanggal Penilaian</td>
               <td>: </td>
-              <td>24 Januari 2022</td>
+              <td>22 Januari 2022</td>
             </tr>
 			<tr>
               <td>Tahun Penilaian</td>
@@ -116,9 +115,8 @@
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a href="https://www.google.com/maps/place/6%C2%B023'30.6%22S+106%C2%B053'53.3%22E/@-6.3918237,106.8955701,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.391829!4d106.898145?entry=ttu">
- -6.391829, 106.898145											
-                  </a></td>
+              <td><a href="https://www.google.com/maps/place/6%C2%B012'37.0%22S+106%C2%B051'40.7%22E/@-6.210273,106.861313,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.210273!4d106.861313?entry=ttu">
+ -6.210273, 106.861313</a></td>
             </tr>
 			<tr>
               <th>Jenis Data</th>
@@ -128,22 +126,22 @@
            <tr>
               <td>Luas Tanah Sertipikat</td>
               <td>:</td>
-              <td> 112 m2</td>
+              <td> 174 m2</td>
             </tr>
 			<tr>
               <td>Luas Bangunan</td>
               <td>:</td>
-              <td> 134 m2</td>
+              <td> 300 m2</td>
             </tr>
 			<tr>
               <td>Nilai Pnwrn/Transaksi</td>
               <td>:</td>
-              <td> Rp. 1,353,900,000.-</td>
+              <td>Rp. 3.895.500.000,-</td>
             </tr>
 			<tr>
               <td>Indikasi Nilai Pasar Tanah/m2</td>
               <td>:</td>
-              <td> Rp. 8,870,000.-</td>
+              <td>Rp 16.910.000,-</td>
             </tr>
           </tbody>
         </table>
@@ -363,7 +361,7 @@
 
 
         var iconsekolah = L.icon({
-            iconUrl: 'OBJEK CITRA.png',
+            iconUrl: 'sumartoyo.png',
             iconSize:     [300, 300],        
         });
 
