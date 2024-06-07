@@ -160,13 +160,13 @@
 <tr>
               <td> Lokasi  </td>
               <td>:</td>
-              <td> Raffles Hills Blok O 8 No 11 </td>
+              <td>Matraman Townhouse</td>
             </tr>
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a href="https://www.google.com/maps/place/6%C2%B023'28.8%22S+106%C2%B053'55.1%22E/@-6.3913227,106.8960741,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.391328!4d106.898649?entry=ttu">
--6.391328, 106.898649				
+              <td><a https://www.google.com/maps/place/6%C2%B012'37.2%22S+106%C2%B051'38.9%22E/@-6.210326,106.860803,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.210326!4d106.860803?entry=ttu">
+-6.210326, 106.860803				
                   </a></td>
             </tr>
 			<tr>
@@ -182,27 +182,27 @@
 			<tr>
               <td>No. Telp. Sumber Data </td>
               <td>: </td>
-              <td> 0822 1717 0988 </td>
+              <td>0859 20512035</td>
             </tr>
 			<tr>
               <td>Luas Tanah Sertipikat</td>
               <td>:</td>
-              <td>112 m2</td>
+              <td>119 m2</td>
             </tr>
 			<tr>
               <td>Luas Bangunan</td>
               <td>:</td>
-              <td>140 m2</td>
+              <td>240 m2</td>
             </tr>
 			<tr>
               <td>Nilai Pnwrn/Transaksi</td>
               <td>:</td>
-              <td> Rp. 1,650,000,000.-</td>
+              <td>Rp. 3.500.000.000,-</td>
             </tr>
 			<tr>
               <td>Indikasi Nilai Pasar Tanah/m2</td>
               <td>:</td>
-              <td> Rp. 8,928,000.-</td>
+              <td>Rp. 17.767.163,-</td>
             </tr>
           </tbody>
         </table>
@@ -221,20 +221,19 @@
 			<tr>
               <td> Lokasi  </td>
               <td>:</td>
-              <td> Raffles Hills Blok O 8 No 8 		
-	</td>
+              <td>Jalan Tegalan (rumah tua itung tanah)</td>
             </tr>
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a href="https://www.google.com/maps/place/6%C2%B023'28.7%22S+106%C2%B053'56.6%22E/@-6.3912907,106.8964711,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.391296!4d106.899046?entry=ttu">
--6.391296, 106.899046			
+              <td><a https://www.google.com/maps/place/6%C2%B012'06.6%22S+106%C2%B051'34.6%22E/@-6.201822,106.859621,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.201822!4d106.859621?entry=ttu">
+-6.201822, 106.859621		
                   </a></td>
             </tr>
 			<tr>
               <th>Jenis Data</th>
               <th style="width: 10px">:</th>
-              <th>Rumah tinggal</th>
+              <th>Tanah Kosong</th>
             </tr>
 			<tr>
               <td>Nama Sumber Data</td>
