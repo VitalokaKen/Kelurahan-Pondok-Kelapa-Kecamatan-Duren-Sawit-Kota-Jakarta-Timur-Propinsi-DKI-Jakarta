@@ -243,27 +243,27 @@
 			<tr>
               <td>No. Telp. Sumber Data </td>
               <td>: </td>
-              <td> 0818 117 464 </td>
+              <td>0821 22129277</td>
             </tr>
 			<tr>
               <td>Luas Tanah Sertipikat</td>
               <td>:</td>
-              <td>120 m2</td>
+              <td>261 m2</td>
             </tr>
 			<tr>
               <td>Luas Bangunan</td>
               <td>:</td>
-              <td>200 m2</td>
+              <td> m2</td>
             </tr>
 			<tr>
               <td>Nilai Pnwrn/Transaksi</td>
               <td>:</td>
-              <td> Rp. 1,800,000,000.-</td>
+              <td>Rp 4.300.000.000.-</td>
             </tr>
 			<tr>
               <td>Indikasi Nilai Pasar Tanah/m2</td>
               <td>:</td>
-              <td> Rp. 8,394,000.-</td>
+              <td>Rp. 14.003.831,-</td>
             </tr>
           </tbody>
         </table>
@@ -281,14 +281,13 @@
 			<tr>
               <td> Lokasi  </td>
               <td>:</td>
-              <td> Raffles Hills Blok O 5  		
-	</td>
+              <td>Town House (Pramuka Matraman Raya)</td>
             </tr>
 			<tr>
               <td>Titik Koordinat</td>
               <td>:</td>
-              <td><a href="https://www.google.com/maps/place/6%C2%B023'28.6%22S+106%C2%B054'01.9%22E/@-6.3912807,106.8979621,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.391286!4d106.900537?entry=ttu">
--6.391286, 106.900537
+              <td><a https://www.google.com/maps/place/6%C2%B012'11.6%22S+106%C2%B051'11.0%22E/@-6.20322,106.853055,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-6.20322!4d106.853055?entry=ttu">
+-6.203220, 106.853055
                   </a></td>
             </tr>
 			<tr>
@@ -304,27 +303,27 @@
 			<tr>
               <td>No. Telp. Sumber Data </td>
               <td>: </td>
-              <td> 0812 14017813 </td>
+              <td>0813 83135050</td>
             </tr>
 			<tr>
               <td>Luas Tanah Sertipikat</td>
               <td>:</td>
-              <td> 112 m2</td>
+              <td> 83 m2</td>
             </tr>
 			<tr>
               <td>Luas Bangunan</td>
               <td>:</td>
-              <td> 157 m2</td>
+              <td> 190 m2</td>
             </tr>
 			<tr>
               <td>Nilai Pnwrn/Transaksi</td>
               <td>:</td>
-              <td> Rp. 1,750,000,000.-</td>
+              <td>Rp 2.800.000.000.-</td>
             </tr>
 			<tr>
               <td>Indikasi Nilai Pasar Tanah/m2</td>
               <td>:</td>
-              <td> Rp. 9,068,000.-</td>
+              <td>Rp. 17.629.108,-</td>
             </tr>
           </tbody>
         </table>
